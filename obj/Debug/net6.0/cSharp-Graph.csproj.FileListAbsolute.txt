@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Graph\bin\Debug\net6.0\cSharp-Graph.exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Graph\bin\Debug\net6.0\cSharp-Graph.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Graph\bin\Debug\net6.0\cSharp-Graph.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Graph\bin\Debug\net6.0\cSharp-Graph.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Graph\bin\Debug\net6.0\cSharp-Graph.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Graph\obj\Debug\net6.0\cSharp-Graph.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Graph\obj\Debug\net6.0\cSharp-Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Graph\obj\Debug\net6.0\cSharp-Graph.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Graph\obj\Debug\net6.0\cSharp-Graph.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Graph\obj\Debug\net6.0\cSharp-Graph.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Graph\obj\Debug\net6.0\cSharp-Graph.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Graph\obj\Debug\net6.0\refint\cSharp-Graph.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Graph\obj\Debug\net6.0\cSharp-Graph.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Graph\obj\Debug\net6.0\cSharp-Graph.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Graph\obj\Debug\net6.0\ref\cSharp-Graph.dll
